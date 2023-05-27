@@ -1,0 +1,72 @@
+
+div#head {
+    background: black;
+    width: 23%;
+    height: 53%;
+    border-radius: 10%;
+    position: absolute; 
+    left: 41%;
+    bottom: 39%;
+}
+
+div#imagen {
+    background: white;
+    width: 14%;
+    height: 19%;
+    position: absolute;
+    left: 45%;
+    bottom: 71%;
+    border-radius: 50%;
+}
+
+div#imagen img {
+    width: 90%;
+    height: 90%;
+    border-radius:  50%;
+    position: absolute;
+    left: 5%;
+    bottom: 5%;
+}
+div#nombre {
+    background: white;
+    width: 14%;
+    height: 3%;
+    position: absolute;
+    left: 45%;
+    bottom: 67%;
+    font-size: 111%;
+    border-radius: 30%;
+    text-align: center;
+    font-family: 'Lobster', cursive;
+    
+}
+div.info {
+    background: orange;
+    width: 20%;
+    height: 17%;
+    position: absolute;
+    bottom: 47%;
+    left: 42%;
+    border: solid 3px #FFFFFF;
+    text-align: left;
+    font-size: 70%;
+    font-family: 'Noto Sans', sans-serif;
+    
+}
+div#botonflotante {
+    position: absolute;
+    top: 56%;
+    left: 48%;
+    border: solid 3px whitesmoke;
+    border-radius: 20px;
+    height: 3%;
+    width: 10%;
+    text-align: center;
+    font-size: 140%;
+    cursor: pointer;  
+    
+}
+a{
+    color: white;
+
+ }
